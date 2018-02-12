@@ -1,0 +1,11 @@
+{
+  "name": "converter-extension-master",
+  "version": "1.0.0",
+  "description": "This a browser extension for chrome that converts Dollar prices on a webpage to Naira, using the exchange rates gotten from openexchangerates.com",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
